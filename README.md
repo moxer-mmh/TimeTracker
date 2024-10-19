@@ -74,6 +74,14 @@ python -m main.py
 
 4. Click "Save Entry" to store your time entry
 
+## Download and Installation
+
+#### - Download Executable (Windows)
+
+   1. Go to the Releases page
+   2. Download the latest TimeTracker.exe
+   3. Run the executable - no installation required
+
 ## Work Schedule
 
 - Work week: Sunday through Thursday
