@@ -29,8 +29,8 @@ A desktop application built with Python and Tkinter for tracking work hours and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/moxer-mmh/PPT.git
-cd PPT
+git clone https://github.com/moxer-mmh/TimeTracker.git
+cd TimeTracker
 ```
 
 2. Create and activate a virtual environment (recommended):
@@ -98,7 +98,7 @@ TimeTracker stores all data locally in a SQLite database located at:
 ## Project Structure
 
 ```
-PPT/
+TimeTracker/
 │
 ├── main.py
 ├── views/
